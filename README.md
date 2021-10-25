@@ -14,15 +14,16 @@
 - [x] [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 - [x] [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
 
-## 二叉树深度
+## 二叉树深度/高度
 - [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 - [x] [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) ★★
 - [x] [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) ★★
-
-## 二叉树高度
 - [x] [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+
+
 
 ## 二叉树
 - [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 - [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) ★★
 - [x] [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
+- [x] [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) [回溯]
