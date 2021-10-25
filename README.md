@@ -27,3 +27,4 @@
 - [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) ★★
 - [x] [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
 - [x] [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) [回溯]
+- [x] [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) ★★
