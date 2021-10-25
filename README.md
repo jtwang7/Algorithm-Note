@@ -18,8 +18,11 @@
 - [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 - [x] [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) ★★
 - [x] [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) ★★
-- [ ] 
+
+## 二叉树高度
+- [x] [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
 
 ## 二叉树
 - [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 - [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) ★★
+- [x] [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
