@@ -8,6 +8,7 @@
 - [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) ★★
 - [x] [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) ★★★
 - [x] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+- [x] [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 
 ## 二叉树遍历(深度优先)
@@ -44,3 +45,6 @@
 - [x] [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
 - [x] [530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
 - [x] [501. 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
+- [x] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [x] [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
+- [ ] 
