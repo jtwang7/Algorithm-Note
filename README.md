@@ -1,4 +1,15 @@
 # 刷题记录
+## 二叉树
+- [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+- [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) ★★
+- [x] [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
+- [x] [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) [回溯]
+- [x] [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) ★★
+- [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) ★★
+- [x] [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) ★★★
+- [x] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+
+
 ## 二叉树遍历(深度优先)
 - [x] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 - [x] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
@@ -28,13 +39,7 @@
 - [x] [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) ★★
 - [x] [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
 
-
-
-## 二叉树
-- [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
-- [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) ★★
-- [x] [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
-- [x] [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) [回溯]
-- [x] [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) ★★
-- [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/) ★★
-- [x] [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) ★★★
+## 二叉搜索树
+- [x] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+- [x] [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
+- [ ] 
