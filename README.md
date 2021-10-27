@@ -60,3 +60,6 @@
 - [x] [77. 组合](https://leetcode-cn.com/problems/combinations/)
 - [x] [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 
+## 排列问题
+- [x] [46. 全排列](https://leetcode-cn.com/problems/permutations/) ★★
+- [x] [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) ★★★
