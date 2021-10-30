@@ -75,7 +75,7 @@
 - [x] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 - [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 - [x] [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
-- [] []()
+- [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 - [] []()
 - [] []()
 - [] []()
