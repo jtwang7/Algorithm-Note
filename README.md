@@ -77,7 +77,7 @@
 - [x] [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 - [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 - [x] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)
-- [] []()
+- [x] [66. 加一](https://leetcode-cn.com/problems/plus-one/)
 - [] []()
 - [] []()
 - [] []()
