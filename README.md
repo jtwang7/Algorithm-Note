@@ -85,3 +85,8 @@
 - [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [x] [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 - [x] [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)
+- [x] [155. 最小栈](https://leetcode-cn.com/problems/min-stack/description/)
+
+## 中等题
+- [x] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+- [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
