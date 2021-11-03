@@ -90,4 +90,5 @@
 ## 中等题
 - [x] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 - [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+- [x] [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 - [x] [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
