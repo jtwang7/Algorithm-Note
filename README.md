@@ -92,3 +92,5 @@
 - [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - [x] [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 - [x] [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
+- [x] [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+- [x] [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
