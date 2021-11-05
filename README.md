@@ -96,3 +96,5 @@
 - [x] [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 - [x] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 - [x] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+- [x] [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+- [x] [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
