@@ -98,3 +98,4 @@
 - [x] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 - [x] [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 - [x] [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+- [x] [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)
