@@ -100,3 +100,6 @@
 - [x] [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
 - [x] [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)
 - [x] [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/description/)
+- [x] [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/description/)
+- [x] [46. 全排列](https://leetcode-cn.com/problems/permutations/description/)
+- [x] [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/description/)
