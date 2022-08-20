@@ -1,3 +1,5 @@
+✅ [ACM 模式输入输出](https://labfiles.acmcoder.com/ojhtml/index.html#/?id=js%e8%af%bb%e5%8f%96%e8%b6%85%e9%95%bf%e5%ad%97%e7%ac%a6%e4%b8%b2)
+
 # 刷题记录
 ## 二叉树
 - [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
